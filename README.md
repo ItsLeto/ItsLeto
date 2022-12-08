@@ -1,4 +1,4 @@
-Hi, I’m Herwig also know as Leto (@LetoTheDev)
+Hi, I’m Herwig also know as Leto (@ItsLeto)
 
 I am a Software Developer in C++ . 
 I’m interested in almost every C++ related topic and in optimised keyboard layouts. I use the [ISRT layout](https://notgate.github.io/layout/) on a [ferris sweep keyboard](https://github.com/davidphilipbarr/Sweep).
