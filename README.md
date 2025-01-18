@@ -1,6 +1,21 @@
 # 💫 About Me:
-Hi, I’m Herwig, also known as Leto (@ItsLeto).<br><br>I’m a C++ Software Developer passionate about all things C++, from advanced topics to the tiniest details. I also have a keen interest in optimized keyboard layouts and use the Ferris Sweep with a [custom keymap](https://github.com/ItsLeto/34-QMK-Ferris-Sweep) as my daily driver keyboard.<br><br>I’m currently transitioning from VSCode to a NeoVim and TMux-based workflow, and I’m learning the Rust programming language to expand my skillset.<br><br>Feel free to reach out! You can email me at: herwig.m.letofsky+github@gmail.com
+Hi, I’m Herwig, also known as Leto (@ItsLeto).
 
+I’m a C++ Software Developer passionate about all things C++, from advanced topics to the tiniest details. I also have a keen interest in optimized keyboard layouts and use the Ferris Sweep with a [custom keymap](https://github.com/ItsLeto/34-QMK-Ferris-Sweep) as my daily driver keyboard.
+
+I’m currently transitioning from VSCode to a NeoVim and TMux-based workflow, and I’m learning the Rust programming language to expand my skillset.
+
+Feel free to reach out! You can email me at: herwig.m.letofsky+github@gmail.com
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=flat-square&logo=platformio&logoColor=%23f5822a) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=2dad40)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=2dad40)
+![Lua](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&color=2dad40)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=2dad40)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2dad40)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=2dad40)
+![QMK](https://img.shields.io/badge/Framework-QMK-informational?style=flat&logo=QMK&color=2dad40)
+![CMake](https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=CMake&color=2dad40)
+![Yocto](https://img.shields.io/badge/Tool-Yocto-informational?style=flat&logo=linux&color=2dad40)
+![PlatformIO](https://img.shields.io/badge/Tool-PlatformIO-informational?style=flat&logo=PlatformIO&color=2dad40)
+
