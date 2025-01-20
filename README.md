@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Herwig, also known as Leto (@ItsLeto).
+Hi, I’m Herwig, also known as Leto.
 
 I’m a C++ Software Developer passionate about all things C++, from advanced topics to the tiniest details. I also have a keen interest in optimized keyboard layouts and use the Ferris Sweep with a [custom keymap](https://github.com/ItsLeto/34-QMK-Ferris-Sweep) as my daily driver keyboard.
 
